@@ -2,8 +2,6 @@
 
 <h3 align="left">Techs</h3>
 
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -34,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
+<hr>
 
 <h3 align="left">Stats</h3>
 
@@ -44,16 +42,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=melquias-ofc&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph&bg_color=000&point=fff" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<hr>
 
 <h3 align="left">Social Media</h3>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/melquiascosme/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
