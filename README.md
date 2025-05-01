@@ -9,8 +9,8 @@ String Desenvolvedor = "Back-end";<br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melquias-ofc&show_icons=true&theme=ambient_gradient&hide=issues&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melquias-ofc&layout=compact&theme=ambient_gradient"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=melquias-ofc&show_icons=true&theme=holi&hide=issues&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melquias-ofc&layout=compact&theme=holi"/>
 </p>
 
 <h3 align="center">Techs</h3>
