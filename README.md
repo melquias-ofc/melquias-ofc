@@ -3,11 +3,6 @@
   <img align="center" width="100%" src="banner2.png"">
 </div>
 
-<!--Animal image-->
-<div>
-  <img align="right" width="50%" src="loro1.png"">
-</div>
-
 <!--Header Name-->
 # Hello, I'm Melk! 
 Engenheiro e pedreiro (de Softwares)
