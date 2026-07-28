@@ -5,12 +5,12 @@
 
 <!--Header Name-->
 # Hello, I'm Melk! 
-Engenheiro e pedreiro (de Softwares)
+Engenheiro de Softwares
 <br/>
 
 - Eterno aprendiz da vida
 - Compartilho coisas no meu canal no [Youtube](https://www.youtube.com/@devmelk)
-- Visit my [Portfolio]()
+- Visite meu [Portfolio]()
 > Sucesso não é ser conhecido, é ouvir Jesus dizer no fim: "Eu te conheço!" - Josemar Bessa
 
 <!--Profile Count-->
